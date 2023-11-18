@@ -20,20 +20,28 @@ section{
     margin: auto;
 }
 
-#button{
-    background-color: rgb(12, 112, 242);
-    color: rgb(239, 235, 228);
-    border: 0px;
-    width: 150px;
-    height: 30px;
-    border-radius: 15px;
-    cursor: pointer;
-}
+    #button{
+        background-color: rgb(12, 112, 242);
+        color: rgb(239, 235, 228);
+        border: 0px;
+        width: 150px;
+        height: 30px;
+        border-radius: 15px;
+        cursor: pointer;
+    }
+    .form{
+        margin: 8px;
+        border-radius: 10px;
+        border-style: none;
+        height: 20px;
+        width: 250px;
+    }
 
-.form{
-    margin: 8px;
-    border-radius: 10px;
-    border-style: none;
-    height: 20px;
-    width: 250px;
+@media (max-width: 768px){
+    header{
+        display: block;
+    }
+    section{
+        width: 80%;
+    }
 }
