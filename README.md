@@ -10,7 +10,7 @@ Tecnologias Usadas: <br>
 Link: https://projeto-tabuada.netlify.app/
 
 ### Responsividade Desktop:
-<img src="/readme/tabuada-desktop.png" width="480px">
+<img src="/tabuada-desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/readme/tabuada-mobile.jpg" width="480px">
+<img src="/tabuada-mobile.jpg" width="480px">
