@@ -14,9 +14,3 @@ Link: https://projeto-tabuada.netlify.app/
 
 ### Responsividade Mobile:
 <img src="/readme/tabuada-mobile.jpg" width="480px">
-
-### Page Speed Insights Desktop:
-<img src="/readme/page-speed-insights-desktop.png" width="640px">
-
-### Page Speed Insights Mobile:
-<img src="/readme/page-speed-insights-mobile.png" width="640px">
