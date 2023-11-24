@@ -13,4 +13,4 @@ Link: https://projeto-tabuada.netlify.app/
 <img src="/tabuada-desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/tabuada-mobile.jpg" width="480px">
+<img src="/tabuada-mobile.jpeg" width="480px">
